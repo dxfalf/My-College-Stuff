@@ -5,3 +5,7 @@ Berisi kumpulan latihan, tugas kuliah, dan program sederhana yang saya kerjakan 
 ## Mata Kuliah
 
 - Pemrograman Berorientasi Objek (Semester 3)
+
+## Dosen Pengampu
+
+- Irfan Ramadhani, S.Pd., M.Pd.
