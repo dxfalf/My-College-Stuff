@@ -3,6 +3,7 @@
 #include <vector>
 using namespace std;
 
+// LATIHAN STUDI KASUS PAKAI ARRAY
 int main () {
 int ratarata, pilihanmenu, laporan, kategori;
 char ulangmenu='y';
