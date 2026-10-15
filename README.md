@@ -11,5 +11,7 @@ it just random stuff and what i've learned
 ## Course Information
 - **Program Studi:** Teknik Informatika
 
+## Author
 
-**Author:** Dafa Alfa Reno  
+**Name:** Dafa Alfa Reno  
+**NIM:** 552012510005
