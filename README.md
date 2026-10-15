@@ -4,9 +4,9 @@ it just random stuff and what i've learned
 
 ## Contents
 
-- **Latihan C++**
-- **Latihan Java**
-- **Latihan SQL & Database**
+- **Belajar C++**
+- **Belajar Java**
+- **Belajar SQL & Database**
 
 ## Course Information
 - **Program Studi:** Teknik Informatika
