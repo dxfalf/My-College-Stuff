@@ -6,3 +6,7 @@ Berisi kumpulan latihan, tugas kuliah, dan program sederhana yang saya kerjakan 
 
 - Pemrograman Dasar (Semester 1)
 - Algoritma & Struktur Data (Semester 2)
+
+## Dosen Pengampu
+
+- Irfan Ramadhani, S.Pd., M.Pd.
