@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-// LATIHAN FUNCTION
 /*
 //SOAL 1
 void say_helo(){
