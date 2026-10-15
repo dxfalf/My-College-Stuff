@@ -8,5 +8,7 @@ it just random stuff and what i've learned
 - **Latihan Java**
 - **Latihan SQL & Database**
 
+## Course Information
+- **Program Studi:** Teknik Informatika
+
 **Author:** Dafa Alfa Reno  
-**Field of Study:** Informatics Engineering
