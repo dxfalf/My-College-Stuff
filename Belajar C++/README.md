@@ -5,4 +5,4 @@ Berisi kumpulan latihan, tugas kuliah, dan program sederhana yang saya kerjakan 
 ## Mata Kuliah
 
 - Pemrograman Dasar (Semester 1)
-- Algoritma & Struktur Data (Semester 3)
+- Algoritma & Struktur Data (Semester 2)
